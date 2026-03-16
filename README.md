@@ -44,7 +44,7 @@ Lightweight embedded implementations for MCU platforms, and hardware boards prov
 |---|---|---|
 | [mimiclaw](https://github.com/memovai/mimiclaw) | • [XIAO ESP32S3](https://wiki.seeedstudio.com/xiao_esp32s3_getting_started/) | Pocket AI Assistant on a $5 Chip. |
 | [espclaw](02-microcontrollers/espclaw.md) | • [XIAO ESP32C3](https://wiki.seeedstudio.com/XIAO_ESP32C3_Getting_Started/)<br>• [XIAO ESP32S3](https://wiki.seeedstudio.com/xiao_esp32s3_getting_started/) | ESP32-based OpenClaw implementation with MQTT channel and more native tools. @wangtianrui |
-| [mimiclaw on XIAO ESP32-S3](02-microcontrollers/mimiclaw-on-xiao-esp32s3.md) | • [XIAO ESP32S3](https://wiki.seeedstudio.com/xiao_esp32s3_getting_started/) | mimiclaw ported to Seeed Studio XIAO ESP32S3. |
+| [mimiclaw on XIAO ESP32-S3](https://github.com/luoluoter/mimiclaw) | • [XIAO ESP32S3](https://wiki.seeedstudio.com/xiao_esp32s3_getting_started/) | mimiclaw ported to Seeed Studio XIAO ESP32S3. |
 
 </details>
 
@@ -67,6 +67,7 @@ Add voice input/output capabilities to OpenClaw agents.
 | Project Name | Related Hardware | Description |
 |---|---|---|
 | [MimiClaw x reSpeaker](04-voice-audio/mimiclaw-x-respeaker.md) | • [reSpeaker Mic Array v2.0](https://wiki.seeedstudio.com/ReSpeaker_Mic_Array_v2.0/)<br>• [XIAO ESP32S3](https://wiki.seeedstudio.com/xiao_esp32s3_getting_started/) | Voice-enabled AI assistant with reSpeaker (XVF3800) + ESP32S3. |
+| [openclaw with SenseCAP Watcher](https://github.com/luoluoter/watcher-OI) | • [SenseCAP Watcher](https://wiki.seeedstudio.com/getting_started_with_watcher/) | Give OpenClaw Ears and a Voice |
 
 </details>
 
@@ -79,7 +80,6 @@ Computer vision, AI cameras, and visual perception systems.
 |---|---|---|
 | [reCamera Intellisense](05-vision-cameras/recamera-intellisense.md) | • [reCamera](https://wiki.seeedstudio.com/recamera_getting_started/) | Agent-friendly CLI/SDK for reCamera v2 with multi-camera support. |
 | [openclaw with reCamera Gimbal](05-vision-cameras/openclaw-recamera-gimbal.md) | • [reCamera Gimbal](https://wiki.seeedstudio.com/recamera_gimbal_getting_started/) | todo. @wuxinrui |
-| [openclaw with SenseCap Watcher](05-vision-cameras/openclaw-sensecap-watcher.md) | • [SenseCAP Watcher](https://wiki.seeedstudio.com/getting_started_with_watcher/) | todo. @jerry |
 | [Control reCamera v2 with OpenClaw](05-vision-cameras/control-recamera-v2.md) | • [reCamera](https://wiki.seeedstudio.com/recamera_getting_started/) | todo. @daqing |
 
 </details>
