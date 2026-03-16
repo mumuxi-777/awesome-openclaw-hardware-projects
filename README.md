@@ -152,8 +152,7 @@ Contributions welcome! Please read our [contributing guidelines](./CONTRIBUTING.
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=seeed-projects/awesome-openclaw-hardware-projects&type=Date)](https://star-history.com/#seeed-projects/awesome-openclaw-hardware-projects&Date)
-
+[![Star History Chart](https://api.star-history.com/image?repos=seeed-projects/awesome-openclaw-hardware-projects&type=date&legend=top-left)](https://www.star-history.com/?repos=seeed-projects%2Fawesome-openclaw-hardware-projects&type=date&legend=top-left)
 
 ---
 
