@@ -2,7 +2,6 @@
 
 > Give e-ink displays the most powerful content generation engine - OpenClaw.
 
-- **Status:** Placeholder
 
 ## 1. Overview
 While SenseCraft HMI provides numerous templates, they often lack the flexibility required for dynamic content—such as live data charts, daily story updates, or frequently changing image galleries.
